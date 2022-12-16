@@ -20,7 +20,7 @@ fn random_add() -> u16 {
     return sum;
 }
 
-/*
+
 /// Create the window
 fn main() -> Result<(), PlatformError> {
     let main_window = WindowDesc::new(ui_builder);
@@ -44,4 +44,4 @@ fn ui_builder() -> impl Widget<u16> {
     /// Format the UI
     Flex::column().with_child(label).with_child(button)
 }
-*/
+
