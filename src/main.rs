@@ -1,6 +1,6 @@
 /// Nicholas Vuong - Sum of random numbers
-use druid::widget::{Button, Flex, Label};
-use druid::{AppLauncher, LocalizedString, PlatformError, Widget, WidgetExt, WindowDesc};
+//use druid::widget::{Button, Flex, Label};
+//use druid::{AppLauncher, LocalizedString, PlatformError, Widget, WidgetExt, WindowDesc};
 
 use random_number::random;
 
@@ -20,6 +20,7 @@ fn random_add() -> u16 {
     return sum;
 }
 
+/*
 /// Create the window
 fn main() -> Result<(), PlatformError> {
     let main_window = WindowDesc::new(ui_builder);
@@ -43,3 +44,4 @@ fn ui_builder() -> impl Widget<u16> {
     /// Format the UI
     Flex::column().with_child(label).with_child(button)
 }
+*/
