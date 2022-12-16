@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["proc_macro_hack_random",""],["proc_macro_hack_random_fill",""]]};
