@@ -1,6 +1,6 @@
 /// Nicholas Vuong - Sum of random numbers
-//use druid::widget::{Button, Flex, Label};
-//use druid::{AppLauncher, LocalizedString, PlatformError, Widget, WidgetExt, WindowDesc};
+use druid::widget::{Button, Flex, Label};
+use druid::{AppLauncher, LocalizedString, PlatformError, Widget, WidgetExt, WindowDesc};
 
 use random_number::random;
 
